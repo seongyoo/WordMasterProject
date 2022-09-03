@@ -32,9 +32,10 @@ public class WordManager {
             if(menu == 0) break;
             if(menu == 4){
                 wordCRUD.addWord();
-            }else if(menu == 1){
-                // list
+            }else if(menu == 1) {
+                wordCRUD.listAll();
             }
         }
+        System.out.print("프로그램이 종료되었습니다. ");
     }
 }
