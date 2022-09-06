@@ -12,10 +12,10 @@ public class Word {
         return str;
     }
 
-    int id;
-    int level;
-    String word;
-    String meaning;
+    private int id;
+    private int level;
+    private String word;
+    private String meaning;
 
     public Word() {
     }
