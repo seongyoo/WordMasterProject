@@ -40,6 +40,8 @@ public class WordManager {
                 wordCRUD.updateItem();
             }else if(menu == 6){
                 wordCRUD.deleteItem();
+            }else if(menu == 6){
+                wordCRUD.saveFile();
             }
         }
         System.out.print("프로그램이 종료되었습니다. ");
