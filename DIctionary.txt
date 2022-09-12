@@ -1,2 +1,3 @@
 3|superitendent|관리자, 감독관
 1|electric|전기의, 전기를 생산하는
+1| apple|사과
